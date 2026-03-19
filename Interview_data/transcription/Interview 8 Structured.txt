@@ -1,0 +1,31 @@
+Q1: Poderia, por favor, descrever brevemente o seu cargo e suas principais funções na organização?
+Eu faço parte de uma fração operacional de operações especiais.
+
+Tem um período de preparação e adestramento; depois ficamos em condições de acionamento e, em seguida, vem o emprego, quando vamos cumprir a missão.
+
+Q2: Quais situações ou atividades ocorrem com maior frequência durante o exercício das suas funções?
+As atividades são as missões que a gente realiza. Tem um período de preparação e adestramento, depois um período em que a gente fica em condições de acionamento e, daí, o emprego.
+
+Dividindo em dois grandes grupos, tem as missões de ação direta e as missões de ação indireta. Um exemplo de ação direta é uma ação de contenção. Fazer a segurança de um grande evento é uma ação direta e pode ser de forma proativa — por meio de levantamento de inteligência — ou reativa, depois que acontece o problema. Outro exemplo de ação direta é uma busca e apreensão, ou fazer a retomada de um local. É o que mais a gente faz.
+
+Q3: Como é realizada atualmente a comunicação entre você e os demais membros da equipe durante as operações de campo?
+Primeiro é a situação em que a fração se encontra. É feita uma análise da missão para ver a capacidade do inimigo. Se for uma situação de guerra, imposição de paz ou manutenção de paz, a gente não utiliza nada ligado à rede: apenas equipamentos militares, com criptografia e salto de frequência. Se estudamos e o inimigo não tem capacidade de interferir nas comunicações, até pode ser utilizado algum meio ligado à internet, sempre com medidas de prevenção para que a comunicação não seja identificada.
+
+Q4: Quais meios ou ferramentas são mais utilizados para a comunicação com a central ou comando durante essas operações?
+Numa situação em que o inimigo tem capacidade de interferir, é tudo com equipamento militar: rádio de frequência HF ou VHF, criptografados e com salto de frequência. Essa é a comunicação tanto interna — entre os componentes da equipe operacional — quanto externa. Em alguns casos, se o inimigo não tem capacidade de interferir, é utilizada comunicação satelital, também com medidas de prevenção para que as comunicações não sejam interceptadas.
+
+Q5: Quais tipos de informações ou instruções são transmitidas com maior frequência nessas comunicações?
+Na maioria das vezes é atualização do cenário, para a consciência situacional de quem está comandando a operação. Durante a operação, já ficam pré-definidos horários — com base no estudo das comunicações — em que fica mais fácil fazer o contato para passar o que houve de novidade ou alteração durante o dia ou a meia-jornada. A maioria é atualização do cenário — “Hoje foi feito isso, isso e isso.” — e também há recebimento de ordens.
+
+Q6: Na sua opinião, em quais situações o uso de comandos por voz poderia apresentar vantagens em relação ao uso manual de dispositivos, como smartphones ou rádios?
+Tem que fazer um estudo da capacidade do inimigo. Utilizar qualquer meio eletrônico conectado em rede não é seguro; então, se avaliarmos que o inimigo não consegue interferir, até pode ser utilizado, mas nada é transmitido em claro: é um código de mensagens pré-estabelecido.
+
+A vantagem seria a rapidez para realizar o contato; quanto menos tempo eu ficar exposto, melhor para mim ou para a fração. Em situações aqui no Brasil — por exemplo, num trabalho de GLO no Estado do Rio de Janeiro — eles não têm capacidade de monitoramento dessas ferramentas. Então é válido, porque vamos economizar tempo e passar a informação o mais rápido possível.
+
+Q7: Pensando nas atividades que você realiza, haveria comandos por voz que poderiam ser úteis no desempenho das suas funções? Poderia exemplificar?
+Existe o de dar localização. Outro que acho interessante é um comando para informar se houve alguma atividade durante o dia ou não. A pessoa só dá um comando de voz e quem recebe já vai saber que está “sem alteração”.
+
+Q8: Você já utilizou algum assistente inteligente por voz anteriormente (por exemplo: Siri, Google Assistente, Alexa ou outro)? Se sim, poderia comentar brevemente sobre sua experiência?
+Já utilizei o do Google.
+
+É economia de tempo — é tudo que a gente quer. Só que, no emprego militar, tem que ter alguma coisa que deixe o dispositivo mais seguro; pode comprometer a segurança da informação. Mas, se conseguir fazer de uma forma que não comprometa a segurança, é válido, porque vamos ganhar muito tempo.

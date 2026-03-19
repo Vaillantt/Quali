@@ -1,0 +1,35 @@
+Q1: Poderia, por favor, descrever brevemente o seu cargo e suas principais funções na organização?
+A gente, na verdade, trabalha aqui mais em serviço administrativo. Temos algumas atividades de campo em regiões remotas — por exemplo, incêndio florestal — em que há uma dificuldade grande de comunicação via rádio.
+
+Q2: Quais situações ou atividades ocorrem com maior frequência durante o exercício das suas funções?
+Em atividade operacional, o que pesa para a gente é a tropa estar distante da unidade, sem possibilidade de reforço, e ter dificuldade de comunicação. Quando o bombeiro se afasta da unidade, aquilo que ele leva na viatura — de equipamento — vai ter que ser suficiente; se não for, o pedido de apoio se torna muito complicado em algumas regiões do estado por conta da falta de comunicação. A distância também inviabiliza voltar à sede para conseguir esse contato, pedir apoio e retornar para terminar a ocorrência. Já aconteceu de a guarnição ser vítima de um segundo acidente e ficarmos sem conseguir prestar socorro à própria guarnição, porque a sede não tinha conhecimento do fato ocorrido posteriormente ao primeiro acidente.
+
+O nosso material de trabalho principal é água, então temos uma limitação da quantidade de água na própria viatura, e nem todos os pontos de reabastecimento da cidade funcionam. Hoje dispomos de caminhões-tanque que normalmente deslocam em apoio para dar suporte de água em ocorrências de incêndio. Em ocorrências de atendimento pré-hospitalar e acidentes em geral — principalmente acidentes de veículo com múltiplas vítimas e vários veículos —, a quantidade de ambulâncias que nós temos também é um fator crítico; normalmente, nos apoiamos na estrutura do próprio SAMU.
+
+Q3: Como é realizada atualmente a comunicação entre você e os demais membros da equipe durante as operações de campo?
+A gente tem uma central em todas as regiões — são 18 regiões — e essa central faz a comunicação com todos os órgãos de segurança e com alguns órgãos de apoio, inclusive. Às vezes, precisamos de contato com a Embasa; precisamos de contato com a Coelba para desligar a rede elétrica durante um incêndio. Essa central faz essa comunicação com toda a rede pública do estado e, às vezes, até com a rede privada, para que possamos ter suporte nas ocorrências.
+
+Q4: Quais meios ou ferramentas são mais utilizados para a comunicação com a central ou comando durante essas operações?
+Sempre via rádio; o meio oficial é via rádio. Mas, às vezes, o rádio não está funcionando por conta de pontos de sombra; a gente tenta o celular e vai tentando o que for possível. Na capital e na RMS esse problema é muito menor; a rede LTE nos ajuda bastante. Mas, no interior, não temos esse suporte de LTE e, via rádio, nem sempre há cobertura — há muitos pontos de sombra.
+
+O rádio via satélite é uma possibilidade, só que o custo fica muito elevado; o valor de cada rádio é absurdo. Para algo em torno de 50 rádios — e precisaríamos de muito mais do que isso — sairia por mais de 2 milhões.
+
+Q5: Quais tipos de informações ou instruções são transmitidas com maior frequência nessas comunicações?
+A central recebe a ocorrência via teleatendimento — normalmente o 190. Após toda a triagem e o tratamento da ocorrência, isso é repassado para o teledespacho, que é quem faz o contato via rádio com o agente de campo. Eles trocam informações porque, às vezes, quando o agente de campo chega à ocorrência, o cenário é outro; esse retorno para a central de teledespacho é feito pelo militar em campo.
+
+Em tempo real, eles têm todas as viaturas com GPS e sabem a localização de todas elas; conseguem fazer acompanhamento principalmente para dar suporte à guarnição. As centrais de comunicação — os CICOMs — são dotadas de infraestrutura que permite esse acompanhamento em tempo real, inclusive com videomonitoramento.
+
+Quando há necessidade de contato mais direto com o solicitante — por não localizar o endereço certo ou por precisar de um esclarecimento maior —, às vezes a central passa o número do solicitante para o agente de campo, que faz essa ligação direta. É muito comum também orientar por telefone em situações como vítima engasgada, antes mesmo da guarnição chegar.
+
+Q6: Na sua opinião, em quais situações o uso de comandos por voz poderia apresentar vantagens em relação ao uso manual de dispositivos, como smartphones ou rádios?
+A gente vai ter sempre uma deficiência de quantidade de agentes. Mobilizar um agente para ficar no rádio, segurando o rádio durante uma ocorrência, faz com que você perca aquela pessoa. Se o rádio estiver no uniforme e ele não precisar tocar no rádio para se comunicar e executar alguns comandos, isso é maravilhoso, porque consegue ser mais um atendendo a ocorrência e, ao mesmo tempo, se comunicando com a central e com a base.
+
+No atendimento pré-hospitalar, precisamos contatar o médico (regulação) e a base para saber para qual hospital deslocar depois do primeiro atendimento. Se pudermos fazer isso de maneira automática, sem precisar abandonar a vítima, é importante. Nosso efetivo é reduzido; se quem sabe do que a vítima precisa tiver que largá-la para buscar um aparelho de comunicação, isso é prejuízo na ocorrência. Se ele puder fazer isso de maneira automática, considero extremamente viável.
+
+Q7: Pensando nas atividades que você realiza, haveria comandos por voz que poderiam ser úteis no desempenho das suas funções? Poderia exemplificar?
+Usar o celular como ferramenta de videomonitoramento sem comprometer a segurança do agente — com ativação por voz — seria útil. Por exemplo: iniciar um videomonitoramento ou pedir informações pelo celular utilizando comandos de voz.
+
+Na época, alguns comandos sugeridos foram: informações sobre o perímetro da operação; informações sobre o andamento; e sobre onde se encontravam outros agentes ou esquadrões presentes na operação. No atendimento pré-hospitalar, comandos para contato com o médico, contato com a base e para saber para onde levar a vítima — informação que a central normalmente passa — também seriam úteis.
+
+Q8: Você já utilizou algum assistente inteligente por voz anteriormente (por exemplo: Siri, Google Assistente, Alexa ou outro)? Se sim, poderia comentar brevemente sobre sua experiência?
+Normalmente, quando estamos dentro do veículo, é muito comum precisar fazer uma ligação ou alguma outra ação, e o assistente de voz ajuda bastante — inclusive para mandar mensagem durante a condução do veículo. De uma maneira geral, mesmo sem estar dirigindo, você usa o assistente de voz para não ter que pegar o aparelho. Se o veículo tiver multimídia, você utiliza o multimídia do veículo e faz toda essa interação por ele. Quase todo mundo está fazendo duas coisas ao mesmo tempo, e ter um assistente de voz é fantástico.

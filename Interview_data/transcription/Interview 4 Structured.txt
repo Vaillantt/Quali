@@ -1,0 +1,23 @@
+Q1: Poderia, por favor, descrever brevemente o seu cargo e suas principais funções na organização?
+Sou capitão de infantaria do Exército e hoje sou comandante da minha companhia. Estou à frente de duas frações nível pelotão, aproximadamente 60 homens. Basicamente, eles se adestram e ficam prontos para serem empregados como infantaria.
+
+Q2: Quais situações ou atividades ocorrem com maior frequência durante o exercício das suas funções?
+Como é um cargo de coordenação dessas duas frações, que somadas formam uma fração nível companhia, eu coordeno toda a parte de adestramento, preparo e emprego da minha fração. A gente planeja todos os adestramentos durante o ano e, ao longo do ano, há semanas específicas em que somos deslocados para participar de exercícios do Exército, da Força Aérea ou em conjunto com agências como a Polícia. Em algumas semanas, também ficamos em condições de ser empregados em algum local do território nacional, principalmente nas fronteiras, onde o Exército atua em operações de proteção da faixa de fronteira. Basicamente, é adestrar e ficar preparado para ser empregado. Existem operações previamente planejadas e podem surgir outras “inopinadas”.
+
+Q3: Como é realizada atualmente a comunicação entre você e os demais membros da equipe durante as operações de campo?
+Toda a comunicação é realizada por meio de rádio. Temos rádios HF e VHF, e há várias camadas. Dentro da fração, há a comunicação interna entre os militares para coordenar as ações no terreno.
+
+Q4: Quais meios ou ferramentas são mais utilizados para a comunicação com a central ou comando durante essas operações?
+Com o escalão superior, normalmente usa-se o rádio HF pela distância. Também temos alternativas: telefone satelital e sistemas de geolocalização tipo SPOT. Normalmente estabelecemos sempre uma cadeia de principal, alternativa e emergência para a comunicação.
+
+Q5: Quais tipos de informações ou instruções são transmitidas com maior frequência nessas comunicações?
+A fração já sai previamente com tudo planejado e padronizado em relação à comunicação. Há dois tipos: a interna, que é a coordenação no terreno entre grupos (por exemplo, segurança, resgate, balizamento de aeronave), e a comunicação com o escalão superior, que é principalmente para reportar o que está acontecendo em campo. Existem várias mensagens pré-estabelecidas para o escalão superior: mensagem de infiltração, de chegada ao local/objetivo, de cumprimento da missão, de início da infiltração etc., para manter a consciência situacional.
+
+Q6: Na sua opinião, em quais situações o uso de comandos por voz poderia apresentar vantagens em relação ao uso manual de dispositivos, como smartphones ou rádios?
+Tem utilidade, por exemplo, durante uma missão em que ocorre uma emboscada e precisamos evacuar feridos. É preciso se desvencilhar do inimigo, deixar a área segura, retirar o ferido e solicitar evacuação; o tempo pode ser determinante para a sobrevivência. Se houvesse um comando de voz o mais rápido possível, que pudesse acionar a evacuação, a aeronave já sairia da base e realizaria a evacuação onde estamos, o que poderia ser a diferença entre a vida e a morte do militar. Hoje, no rádio HF, dependendo do local, é preciso montar antena e tentar contato; se não conseguir, partir para telefone satelital e outros meios, o que pode ser demorado. Um comando de voz direto pelo telefone satelital seria mais rápido.
+
+Q7: Pensando nas atividades que você realiza, haveria comandos por voz que poderiam ser úteis no desempenho das suas funções? Poderia exemplificar?
+Um exemplo: “Militar ferido, solicito evacuação” — um comando que iria direto para o escalão superior, com a localização e o ponto de toque da aeronave já pré-estabelecidos, porque já saímos para a missão com isso definido. Outro exemplo é a solicitação de reforço: uma tropa está em algum local, a força inimiga é superior e ela não consegue sair; por um comando de voz, o escalão superior já ficaria sabendo e enviaria reforço.
+
+Q8: Você já utilizou algum assistente inteligente por voz anteriormente (por exemplo: Siri, Google Assistente, Alexa ou outro)? Se sim, poderia comentar brevemente sobre sua experiência?
+Já utilizei o do iPhone; Alexa eu nunca usei. Acho útil porque simplifica ações. No meu trabalho, às vezes estamos preocupados com um milhão de coisas, e um comando de voz simplificaria todo um trabalho e traria rapidez, principalmente quando se trata da vida do militar.

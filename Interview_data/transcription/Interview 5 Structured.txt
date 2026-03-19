@@ -1,0 +1,29 @@
+Q1: Poderia, por favor, descrever brevemente o seu cargo e suas principais funções na organização?
+Sou o primeiro-sargento Antônio e, atualmente, ocupo a função de adjunto de comando do 1º Batalhão de Ações de Comandos, sediado em Goiânia (GO). Nas formações de Forças Especiais dividimos em quatro especialidades — comunicações, demolições, saúde e armamento — e, em 2012, eu me especializei em comunicações. Hoje não estou na fração operacional por estar como adjunto de comando, mas sigo na área desde 2012.
+
+Quando estou compondo a fração operacional, o especialista de comunicações fica encarregado de configurar hardware e software dos rádios empregados nas operações. Em regiões com sistema troncalizado da Motorola, fazemos o link e configuramos nossos equipamentos para uso local. Também estudamos e planejamos o emprego do rádio HF — que ainda usamos bastante, pois nem sempre fechamos o link via satélite. Em resumo, sou responsável por fazer as comunicações acontecerem dentro da fração, no nível tático, e da fração para o escalão superior.
+
+Q2: Quais situações ou atividades ocorrem com maior frequência durante o exercício das suas funções?
+Quando não estamos em operação, nossa rotina é de adestramento. Em comunicações, o militar estuda bastante, porque a área evolui todo dia: sempre tem software novo, um meio novo de contato. Trabalhamos com o método PACE — precisamos ter, no mínimo, quatro meios de comunicação quando estamos em áreas mais isoladas (primário, alternativo, contingência e emergência). No dia a dia, estamos ou estudando, ou planejando, ou executando a missão.
+
+Q3: Como é realizada atualmente a comunicação entre você e os demais membros da equipe durante as operações de campo?
+O primário é o rádio tático. Usamos muito o HF para certas comunicações dentro da fração operacional, e trabalhamos bastante com equipamentos Motorola, a depender das aquisições. Como alternativo, no nível tático, utilizamos sinais e gestos — sinais com a mão, literalmente. Se houver falha no rádio, se o PTT apresentar problema e não conseguirmos sanar, seguimos por sinais e gestos, conforme o planejamento e o método PACE.
+
+Q4: Quais meios ou ferramentas são mais utilizados para a comunicação com a central ou comando durante essas operações?
+Para falar da fração com o escalão superior, empregamos comunicação satelital ou HF, conforme o planejamento do especialista. Na contingência, usamos o SPOT Assist para enviar a posição ao servidor e permitir o acompanhamento em tempo real; na emergência, o telefone satelital cobre bem a demanda. Também existem aplicativos civis (App Store/Google Play) para passar posição e monitorar, que podemos empregar se a área permitir dados — muitas vezes mais barato que o SPOT Assist, cujo servidor e contratos (geralmente acima de seis meses) encarecem o uso. Em HF, utilizamos, por exemplo, a família Harris, sempre dependendo das compras e parcerias do Exército.
+
+Q5: Quais tipos de informações ou instruções são transmitidas com maior frequência nessas comunicações?
+A operação tem várias fases — planejamento, infiltração, execução, desinfiltração e desmobilização — e as mensagens seguem pontos de controle definidos. Na infiltração (por terra, mar ou ar), o primeiro ponto é confirmar se todos chegaram ao solo, se houve baixas e se a missão prossegue — a chamada “mensagem de infiltração”. Em seguida, comunicamos situação de baixas, condições para continuar ou necessidade de retraimento para área segura.
+
+Durante deslocamentos terrestres, a cada 10–15 km fazemos pontos de controle para informar localização, quilometragem percorrida, tempo e previsão de chegada à área de operações, permitindo ao comando acionar meios como evacuação aeromédica quando necessário. Após o cumprimento da missão e a reorganização, retransmitimos ao escalão superior dados para alimentar a inteligência e o comando sobre a situação real — se houve baixas, se o elemento previsto foi capturado, entre outros.
+
+Q6: Na sua opinião, em quais situações o uso de comandos por voz poderia apresentar vantagens em relação ao uso manual de dispositivos, como smartphones ou rádios?
+Talvez o comando de voz numa operação não seja o mais adequado. No combate, “todo planejamento não resiste ao primeiro tiro”: todos querem coordenar tudo ao mesmo tempo e o canal de comunicações fica engarrafado. Nesses momentos, costuma valer a diretriz de que “só o comandante fala”. Se liberar comando de voz para todos, pode haver congestionamento e prejuízo à coordenação.
+
+Q7: Pensando nas atividades que você realiza, haveria comandos por voz que poderiam ser úteis no desempenho das suas funções? Poderia exemplificar?
+Vejo utilidade em solicitar ressuprimento, solicitar apoio, acionar apoio médico/aeromédico (evacuação aeromédica) e solicitar reforço na posição quando o destacamento estiver sendo engajado por força superior e estiver encurralado. Em termos de formulação, seria algo como: “solicitar evacuação aeromédica na área de operações Bravo”.
+
+Também imagino um software com palavras-chave e um ativador, por exemplo: “Alexa, enviar nossa posição em tempo real para o comandante da operação”. Outra possibilidade é trabalhar com mensagens pré-estabelecidas: uma palavra de start (“Caveira”, por exemplo) dispara o envio do geoposicionamento em tempo real, ou um “alfabeto” próprio baseado em ponto/traço do Morse para codificar mensagens curtas padronizadas.
+
+Q8: Você já utilizou algum assistente inteligente por voz anteriormente (por exemplo: Siri, Google Assistente, Alexa ou outro)? Se sim, poderia comentar brevemente sobre sua experiência?
+Não em operação. No geral, minha casa toda é interligada; uso Echo Dot e sistemas inteligentes. Gosto e sou entusiasta: crio rotinas e eles executam, e hoje não tenho reclamações a fazer.

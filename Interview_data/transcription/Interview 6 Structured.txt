@@ -1,0 +1,31 @@
+Q1: Poderia, por favor, descrever brevemente o seu cargo e suas principais funções na organização?
+Hoje eu sou primeiro-tenente do Corpo de Bombeiros Militar de Pernambuco (CBMPE). Minha função aqui é o secretariado no Gabinete do Comando-Geral.
+
+Atualmente, estou na Secretaria do Comando-Geral, onde recebo as documentações externas ao CBMPE; a gente dá entrada no protocolo. Além disso, também sou Oficial de Operações de Combate a Incêndio, atendendo ocorrências de incêndio ou envolvendo produtos perigosos, no serviço operacional.
+
+Q2: Quais situações ou atividades ocorrem com maior frequência durante o exercício das suas funções?
+No operacional, frequentemente atendemos vazamentos de GLP e também incêndios em residências, edifícios e pequenos comércios e, de maneira menos frequente, ocorrências maiores, como em lojas ou empresas de maior porte.
+
+Q3: Como é realizada atualmente a comunicação entre você e os demais membros da equipe durante as operações de campo?
+A comunicação interna é por rádio. É complicado operar com celular durante o combate; não dá para estar com uma mão no celular e outra no esguicho. Então, internamente, a comunicação é por viva-voz (se estivermos próximos) ou via rádio portátil. Geralmente há um rádio para o comandante da operação, outro para quem opera o caminhão (bomba d’água) e talvez um extra para quem está dentro da zona quente.
+
+Q4: Quais meios ou ferramentas são mais utilizados para a comunicação com a central ou comando durante essas operações?
+Temos comunicação externa com o nosso centro de operações, que faz a triagem e a coordenação das viaturas. Isso acontece por rádio HT (rádio portátil) ou pelo próprio WhatsApp. Usamos um sistema de despacho de ocorrências recente, o Sinesp CAD, desenvolvido pela Senasp. As informações iniciais podem ser despachadas por rádio e/ou em PDF pelo WhatsApp. Do local da ocorrência, mantemos contato via rádio ou celular com a central, sempre indicando a fase da operação.
+
+Q5: Quais tipos de informações ou instruções são transmitidas com maior frequência nessas comunicações?
+Externamente, é importante dizer à central onde estamos, se já chegamos, quais agentes estão presentes, em que fase do combate estamos e outros detalhes necessários (por exemplo, se precisamos da PM).
+
+Internamente, o chefe da operação precisa saber, por exemplo, quanto de água ainda há no caminhão para continuar a operação; se a equipe interna precisa de ferramenta específica para arrombamento de portas; se a equipe lá dentro estiver em dificuldade, solicitar apoio para evacuação. Do lado de fora, o motorista pode observar risco de colapso estrutural e avisar as guarnições no interior para saírem.
+
+Q6: Na sua opinião, em quais situações o uso de comandos por voz poderia apresentar vantagens em relação ao uso manual de dispositivos, como smartphones ou rádios?
+Simplificaria eu apenas passar a informação, em vez de tentar contato e ligar. Posso imaginar a viatura com um GPS mais efetivo: ela chegaria ao local, o sistema perceberia que chegou e já ficaria configurado que não preciso ligar para dizer “já cheguei ao local”.
+
+Com certeza, na zona quente as mãos geralmente estarão ocupadas. Se eu não precisasse usá-las para me comunicar, seria o ideal: um sistema de fonia na máscara de proteção, em modo mãos-livres. Também existem problemas de comunicação via rádio em temperaturas muito altas; pode haver interferência em incêndios.
+
+Q7: Pensando nas atividades que você realiza, haveria comandos por voz que poderiam ser úteis no desempenho das suas funções? Poderia exemplificar?
+Temos padronizações no nosso POP, dividido em fases. Seria útil simplesmente dizer: “estamos no rescaldo”, “estamos fazendo isolamento”, “estamos realizando salvamento de vítimas”. Também: “estamos precisando de apoio da PM”.
+
+Internamente, comandos como “estamos com 4.000 litros de água” ou “estamos com 2.000 litros de água” seriam informações úteis para o chefe da operação — coisas diretas: o que eu possuo de recursos ou do que preciso.
+
+Q8: Você já utilizou algum assistente inteligente por voz anteriormente (por exemplo: Siri, Google Assistente, Alexa ou outro)? Se sim, poderia comentar brevemente sobre sua experiência?
+Já usei, mas de forma pontual. Por exemplo, dirigindo: digo no YouTube qual música quero e ele coloca. Também para identificar qual música está tocando. Coisas simples no uso da voz. A Siri e outros… não tanto, só usos bem pontuais. Gostei, gostei. Tem sido bem preciso, né? A execução dessas operações por voz.

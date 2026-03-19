@@ -1,0 +1,29 @@
+Q1: Poderia, por favor, descrever brevemente o seu cargo e suas principais funções na organização?
+Eu sou comandante de uma unidade de busca e resgate com cães do Corpo de Bombeiros Militar de Pernambuco, capitão do quadro de oficiais combatentes. Sou responsável por gerir todo o treinamento dos cães, a parte logística de vacinação, vermifugação e utilização de carrapaticida, além da logística de ração e suplementos. Em operações, defino se os cães serão utilizados ou não em determinada área e faço o planejamento para aquisição de novos filhotes, a fim de renovar o plantel.
+
+Também cuido da parte dos condutores — os militares/bombeiros —, o que envolve gerir férias, licenças, escala de serviço, as operações de que participam e o treinamento dessas pessoas. É toda a parte burocrática, como se fosse a secretaria de pessoal de uma empresa. Para isso, tenho apenas um auxiliar para me ajudar em todas essas demandas.
+
+Q2: Quais situações ou atividades ocorrem com maior frequência durante o exercício das suas funções?
+Normalmente, quando chego pela manhã, faço o treinamento da minha cadela de busca e resgate, junto com a alimentação. Depois disso, entro no sistema eletrônico dos Bombeiros para ver solicitações de permutas de serviço, requerimentos e toda essa parte. Algumas demandas são sazonais: uma vez por ano eu preciso gerir a aquisição das rações e dar o pontapé inicial da licitação. Outros suprimentos, como vacinas e vermifugação, acontecem duas vezes ao ano; faço as solicitações pelo sistema e acompanho todo o processo de compra, indicando a melhor marca possível.
+
+As demandas diárias se relacionam mais ao que o efetivo precisa, como monitoramento de carga horária. Também há questões de treinamento e de espaços adequados: eles fazem solicitações e eu despacho autorizando ou não. O gerenciamento de ocorrências acontece com certa frequência; em algumas, preciso estar presente para me pronunciar à imprensa em nome do Corpo de Bombeiros. Também utilizo meu cão em revezamento nas buscas, ficando como uma espécie de reserva nessa parte operacional. No mais, a rotina envolve a documentação referente aos militares: requerimentos, permutas, carga horária etc.
+
+Q3: Como é realizada atualmente a comunicação entre você e os demais membros da equipe durante as operações de campo?
+A gente tem uma interação grande com outras operativas e com os militares do próprio quartel. Normalmente é via WhatsApp ou telefonema, se for mais urgente. Quando é algo externo ao Corpo de Bombeiros, uso e-mail corporativo ou o SEI, que é o nosso sistema eletrônico, para comunicação.
+
+Q4: Quais meios ou ferramentas são mais utilizados para a comunicação com a central ou comando durante essas operações?
+WhatsApp e telefonema são os mais usados quando é urgente. Também utilizo o e-mail corporativo e o SEI para comunicações oficiais.
+
+Q5: Quais tipos de informações ou instruções são transmitidas com maior frequência nessas comunicações?
+A gente troca muito conhecimento sobre aquisição de material, porque é difícil adquirir e, se não especificar bem, pode vir algo que não quer. Falamos bastante com outros Corpos de Bombeiros, principalmente sobre treinamentos, e já chegamos a fazer reuniões on-line no Google Meet sobre isso.
+
+Q6: Na sua opinião, em quais situações o uso de comandos por voz poderia apresentar vantagens em relação ao uso manual de dispositivos, como smartphones ou rádios?
+Em relatórios de ocorrência, se tivéssemos um dispositivo para anotar durante as buscas, eu poderia ditar por voz informações que depois eu teria que lembrar de cabeça, e algo pode passar. Também há situações em que preciso de resposta mais rápida: em vez de digitar na viatura, que muitas vezes balança, eu poderia consultar por voz a geografia do local ou as condições do tempo, que são muito importantes, por exemplo quando pedimos auxílio de helicóptero. Esses detalhes da ocorrência ajudam bastante.
+
+Q7: Pensando nas atividades que você realiza, haveria comandos por voz que poderiam ser úteis no desempenho das suas funções? Poderia exemplificar?
+Eu uso o ChatGPT bastante para corrigir documentos e para me dar ideias, e normalmente preciso ficar digitando. Se a interação fosse mais fluida, por áudio, eu faria muitas vezes meu trabalho um pouco mais rápido. Às vezes não preciso de algo escrito; preciso só da ideia ou de alguma informação específica.
+
+Q8: Você já utilizou algum assistente inteligente por voz anteriormente (por exemplo: Siri, Google Assistente, Alexa ou outro)? Se sim, poderia comentar brevemente sobre sua experiência?
+Utilizei o Google. Acho que serve para algumas coisas, mas não utilizo com muita frequência; normalmente eu digito. Quando utilizei, achei bastante prático, só que, às vezes, minhas mãos estão sujas e eu não consigo digitar nem abrir o aplicativo. Seria melhor se fosse mais simples acionar — por exemplo, segurar o botão de volume para já ativar o dispositivo. Normalmente trabalhamos sujos e molhados; muitas vezes estou de luva, não há aderência na tela, falta acessibilidade.
+
+Se o assistente de voz tivesse maior capacidade para tirar dúvidas de atendimento de primeiros socorros e pré-hospitalar, ajudaria demais: às vezes a gente esquece frequência cardíaca de uma criança, idade-limite para ser considerado criança ou adolescente, frequência respiratória, a contagem — coisas simples que fogem da cabeça. Com acesso rápido por voz, ajuda muito. E em acidentes veiculares, em carros novos, eu não sei onde fica o acionador do airbag; perco tempo expondo o local do corte para não acionar o airbag e machucar a vítima ou a equipe. Se tivéssemos esse tipo de informação por voz, seria bem útil.
